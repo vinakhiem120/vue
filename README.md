@@ -23,7 +23,7 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 
 <p align="center">
   <a target="_blank" href="https://github.com/appwrite/appwrite">
-  <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg" width="300">
+  <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg hithere" width="300">
   </a>
 </p>
 
